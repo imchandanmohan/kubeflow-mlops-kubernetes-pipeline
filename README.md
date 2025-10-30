@@ -1,4 +1,4 @@
-# 🏥 Colorectal Cancer Patient Survival Prediction
+# 🏥 kubeflow-mlops-kubernetes-pipeline
 
 An end-to-end MLOps project for predicting colorectal cancer patient survival using machine learning, with comprehensive experiment tracking, pipeline orchestration, and deployment automation.
 
